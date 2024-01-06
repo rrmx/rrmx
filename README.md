@@ -25,8 +25,23 @@
 <!-- Github Stats -->
 
 <details>
-<summary><samp><b>Github Info</b></samp></summary>
+<summary><samp><b>More Info</b></samp></summary>
+<br/>
 
+<!-- Contact Me -->
+<p align="center">
+  <samp>  
+  You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+  <p align="center">
+  <a href="https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
+  <a href="https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
+  <a href="https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitter.png"/></a>
+  <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
+  <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
+  </samp>
+</p>
+
+<br/>
 <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rrmx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -34,7 +49,7 @@
 </p>
 
 <br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="rrmx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="rrmx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 <br/>
@@ -42,24 +57,3 @@
 </details>
 
 <!-- Hack The Box Stats -->
-
-<details>
-<summary><samp><b>Github Info</b></samp></summary>
-
-</details>
-
-<!-- Contact Me -->
-
-<details>
-<summary><samp><b>Contact Me</b></samp></summary>
-
-<h2></h2><br>
-
-
-<p align="center">
-  <samp>  
-    You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
