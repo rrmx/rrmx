@@ -22,21 +22,10 @@
 
 <br>
 
-<details>
-<summary><samp><b>More Info</b></samp></summary>
-
-<h2></h2><br>
-
-<!-- Contact Me -->
-<p align="center">
-  <samp>  
-    You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
-
 <!-- Github Stats -->
+
+<details>
+<summary><samp><b>Github Info</b></samp></summary>
 
 <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
@@ -50,3 +39,27 @@
 <br/>
 <br/>
 <br/>
+</details>
+
+<!-- Hack The Box Stats -->
+
+<details>
+<summary><samp><b>Github Info</b></samp></summary>
+
+</details>
+
+<!-- Contact Me -->
+
+<details>
+<summary><samp><b>Contact Me</b></samp></summary>
+
+<h2></h2><br>
+
+
+<p align="center">
+  <samp>  
+    You can reach me at [<a href="mailto:rxyhn.dev@gmail.com">e-mail</a>]
+  </samp>
+</p>
+
+<h2></h2><br>
