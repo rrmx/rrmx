@@ -36,13 +36,13 @@
 
 <h2></h2><br>
 
+<!-- Github Stats -->
+
 <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=WildZarek&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
 </p>
-
-**Github**
 
 <br/>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="WildZarek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WildZarek&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -51,21 +51,17 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="WildZarek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=WildZarek&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-
 <!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
 
-</details>
-</div>
+<p align="center">
+  <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rrmxe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
+</p>
+
+<br/>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="rrmx's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="rrmx's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
+<br/>
+<br/>
