@@ -36,43 +36,27 @@
   </a>
 </p>
 
-<br/>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<br/>
-<br/>
+<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
-<!-- Hack The Box Stats -->
+<a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+
+<!-- Contact -->
 
 <!-- Contact Me -->
 <p align="center">
-  Contactame :
-  <p align="center">
-  <a href="https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
-  <a href="https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
-  <a href="https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitter.png"/></a>
-  <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
-  <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
+  <samp>  
+    You can reach me at [<a href="#">e-mail</a>]
+  </samp>
 </p>
-<br/>
+
+<!-- Social Media -->
+
+<p align="center">
+  <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitter.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
+  <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
+</p>
 
 </details>
-
-<!-- Github Stats -->
-
-<div align="center">
-  <a href="#"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxyhn&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a>
-
-  <a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxyhn&layout=compact&line_height=21&hide_border=true&theme=nord"/></a>
-</div>
-
-<!-- Github Stats -->
-
-<div align="center">
-
-  <a href="#"><img height="137px" align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-</div>
