@@ -36,11 +36,9 @@
   </a>
 </p>
 
-<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&count_private=true&show_icons=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
-<a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-
-<!-- Contact -->
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 
 <!-- Contact Me -->
 <p align="center">
@@ -60,3 +58,4 @@
 </p>
 
 </details>
+</div>
