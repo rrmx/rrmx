@@ -35,8 +35,8 @@
   </a>
 </p>
 
-<a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=070B0E" /></a>
-<a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=070B0E" /></a>
+<a href="#--------"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=rrmx&show_icons=true&count_private=true&theme=react&include_all_commits=true&hide_border=true&bg_color=070b0e" /></a>
+<a href="#--------"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrmx&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=070B0E" /></a>
 
 <!-- Contact Me -->
 <p align="center">
