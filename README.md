@@ -14,7 +14,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
       <br>
       <b>
-        ~ Rayhan Kafi Pratama ~
+        ~ Alexis ~
       </b>
     </samp>
   </p>
@@ -28,20 +28,8 @@
 <summary><samp><b>More Info</b></samp></summary>
 <br/>
 
-<!-- Contact Me -->
-<p align="center">
-  Contacytame :
-  <p align="center">
-  <a href="https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
-  <a href="https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
-  <a href="https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitter.png"/></a>
-  <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
-  <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
-</p>
-
 <!-- Github Stats -->
 
-<br/>
 <p align="center">
   <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rrmx streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rrmx&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
@@ -56,3 +44,14 @@
 <br/>
 
 <!-- Hack The Box Stats -->
+
+<!-- Contact Me -->
+<p align="center">
+  Contactame :
+  <p align="center">
+  <a href="https://discordapp.com/channels/@me/712878759954481222/"><img src="https://img.icons8.com/ios-filled/38/4a90e2/discord--v1.png"/></a>
+  <a href="https://t.me/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/telegram-app.png"/></a>
+  <a href="https://twitter.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitter.png"/></a>
+  <a href="https://www.twitch.tv/wildzarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
+  <a href="https://github.com/WildZarek"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
+</p>
