@@ -62,3 +62,5 @@
   <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/twitch.png"/></a>
   <a href="#"><img src="https://img.icons8.com/ios-filled/38/4a90e2/github.png"/></a>
 </p>
+
+</div>
